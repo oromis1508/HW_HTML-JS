@@ -1,0 +1,9 @@
+ul {
+    list-style:none;
+    position:relative;
+    text-align: center;
+}
+
+li {
+    display: contents;
+}
